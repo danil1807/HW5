@@ -22,7 +22,7 @@ public class Employee {
     }
 
     public void showEmployeeData(){
-        System.out.println(" ");
+        System.out.println("   ");
         System.out.println("Full name of the employee: " + getFullName());
         System.out.println("Position: " + getPosition());
         System.out.println("E-mail: " + getEmail());
